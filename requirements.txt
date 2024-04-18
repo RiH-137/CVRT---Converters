@@ -1,0 +1,16 @@
+streamlit
+pdf2docx
+docx2pdf
+pdf2pptx
+fpdf
+docx
+PyPDF2
+pdfplumber
+Converter
+pdf2pptx
+
+
+
+pdf2image
+tqdm
+pathlib
