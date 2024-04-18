@@ -14,3 +14,5 @@ pdf2pptx
 pdf2image
 tqdm
 pathlib
+
+PyMuPDF
