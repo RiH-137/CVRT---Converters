@@ -15,4 +15,3 @@ pdf2image
 tqdm
 pathlib
 
-PyMuPDF
